@@ -1,0 +1,52 @@
+﻿  ConsoleApplication1.cpp
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,8): warning C4101: line: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,9): warning C4101: file_of_hosts: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,9): warning C4101: file_exclude_hosts: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70,9): warning C4101: outputfilename: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,8): warning C4101: tmphost: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(361,20): warning C4305: return: усечение из "LSTATUS (__stdcall *)(HKEY,LPCWSTR,DWORD,LPCWSTR,DWORD)" в "bool"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2395,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(262): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(262): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\onw\Новая папка\ConsoleApplication1\Release\ConsoleApplication1.exe

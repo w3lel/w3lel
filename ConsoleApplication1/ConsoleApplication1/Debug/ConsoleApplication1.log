@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(107,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,8): warning C4101: line: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,9): warning C4101: file_of_hosts: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,9): warning C4101: file_exclude_hosts: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70,9): warning C4101: outputfilename: неиспользованная локальная переменная
+D:\onw\Новая папка\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(72,8): warning C4101: tmphost: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\onw\Новая папка\ConsoleApplication1\Debug\ConsoleApplication1.exe
